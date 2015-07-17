@@ -1,0 +1,9 @@
+{
+  "name": "fairmondo-csv",
+  "version": "0.0.1",
+  "description": "CSV converter for Fairmondo online marketplace",
+  "dependencies": {
+    "csv": "^0.4.5",
+    "js-yaml": "^3.3.1"
+  }
+}
